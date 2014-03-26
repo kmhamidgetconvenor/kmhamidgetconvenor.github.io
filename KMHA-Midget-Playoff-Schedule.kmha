@@ -131,11 +131,21 @@
     <awayScoring period="3" timeMinutes="12" timeSeconds="23" goal="7" assist1="15"/>
     <awayScoring period="3" timeMinutes="12" timeSeconds="12" goal="18" assist1="12" assist2="8"/>
   </games>
-  <games gameNumber="9" date="2014-03-24T19:00:00.000-0400" arena="Jack Charron" home="B2" away="B8" iceType="B GAME" note="Missing Gamesheet">
-    <homeScoring/>
-    <awayScoring/>
-    <awayScoring/>
-    <awayScoring/>
+  <games gameNumber="9" date="2014-03-24T19:00:00.000-0400" arena="Jack Charron" home="B2" away="B8" iceType="B GAME">
+    <homePenalties period="1" number="16" minutes="2" code="HKG" timeMinutes="1" timeSeconds="48"/>
+    <homePenalties period="1" number="30" minutes="2" code="CC" timeSeconds="43"/>
+    <homePenalties period="2" number="30" minutes="2" code="CTH" timeMinutes="5"/>
+    <homePenalties period="2" number="30" minutes="2" code="CTH" timeMinutes="5"/>
+    <homePenalties period="3" number="10" minutes="2" code="HO" timeMinutes="14" timeSeconds="8"/>
+    <homePenalties period="3" number="16" minutes="2" code="CC" timeMinutes="12" timeSeconds="41"/>
+    <homePenalties period="3" minutes="2" code="TR" timeMinutes="7" timeSeconds="24"/>
+    <homeScoring period="2" timeMinutes="5" timeSeconds="22" goal="8" assist1="6"/>
+    <awayPenalties period="1" number="2" minutes="2" code="INT" timeMinutes="2" timeSeconds="10"/>
+    <awayPenalties period="2" number="10" minutes="2" code="BC" timeMinutes="1" timeSeconds="52"/>
+    <awayPenalties period="3" number="12" minutes="2" code="HCK" timeMinutes="13" timeSeconds="27"/>
+    <awayScoring period="2" timeMinutes="1" timeSeconds="36" goal="8" assist1="2"/>
+    <awayScoring period="3" timeMinutes="7" timeSeconds="24" goal="3"/>
+    <awayScoring period="3" timeMinutes="5" timeSeconds="17" goal="8" assist1="16"/>
   </games>
   <games gameNumber="10" date="2014-03-24T20:00:00.000-0400" arena="Jack Charron" home="B5" away="B6" iceType="B GAME">
     <homePenalties period="3" minutes="2" code="TMP" timeMinutes="5" timeSeconds="29"/>
