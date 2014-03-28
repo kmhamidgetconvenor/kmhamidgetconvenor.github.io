@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<com.ahunter.kmha:Midget xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="Kmha Midget Playoff Schedule March 23 - NO STATS">
+<com.ahunter.kmha:Midget xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="Kmha Midget Playoff Schedule March 27 - NO STATS">
   <games gameNumber="1" date="2014-03-17T21:00:00.000-0400" arena="KRC Arena" home="B3" away="B1" iceType="B GAME">
     <homePenalties period="1" number="10" minutes="2" code="BC" timeSeconds="33"/>
     <homePenalties period="3" number="30" minutes="2" code="RO" timeMinutes="10" timeSeconds="52"/>
@@ -33,12 +33,19 @@
     <awayScoring period="1" timeSeconds="29" goal="7" assist1="16" assist2="10"/>
     <awayScoring period="2" timeMinutes="5" timeSeconds="5" goal="19"/>
   </games>
-  <games gameNumber="4" date="2014-03-19T22:00:00.000-0400" arena="John Mlacak" home="B2" away="B4" iceType="B GAME" note="Missing Gamesheet">
-    <homeScoring/>
-    <awayScoring/>
-    <awayScoring/>
-    <awayScoring/>
-    <awayScoring/>
+  <games gameNumber="4" date="2014-03-19T22:00:00.000-0400" arena="John Mlacak" home="B2" away="B4" iceType="B GAME">
+    <homePenalties period="1" number="14" minutes="2" code="TR" timeMinutes="8" timeSeconds="12"/>
+    <homePenalties period="3" number="30" minutes="2" code="BC" timeMinutes="14"/>
+    <homePenalties period="3" number="19" minutes="2" code="SL" timeMinutes="5" timeSeconds="34"/>
+    <homeScoring period="3" timeMinutes="11" timeSeconds="7" goal="9" assist1="7"/>
+    <awayPenalties period="1" number="18" minutes="2" code="TR" timeMinutes="7" timeSeconds="31"/>
+    <awayPenalties period="1" number="4" minutes="2" code="CC" timeMinutes="7"/>
+    <awayPenalties period="3" number="14" minutes="2" code="HO" timeMinutes="10" timeSeconds="33"/>
+    <awayPenalties period="3" number="8" minutes="2" code="HO" timeMinutes="7" timeSeconds="20"/>
+    <awayScoring period="1" timeMinutes="8" timeSeconds="30" goal="10" assist1="15"/>
+    <awayScoring period="2" timeMinutes="6" timeSeconds="28" goal="5"/>
+    <awayScoring period="2" timeSeconds="55" goal="10" assist1="18" assist2="5"/>
+    <awayScoring period="3" timeMinutes="6" timeSeconds="7" goal="6"/>
   </games>
   <games gameNumber="1" date="2014-03-20T17:30:00.000-0400" arena="KRC Rink" home="A5" away="A4" iceType="A GAME">
     <homePenalties period="2" number="16" minutes="2" code="TR" timeMinutes="5" timeSeconds="34"/>
@@ -142,7 +149,7 @@
     <homeScoring period="2" timeMinutes="5" timeSeconds="22" goal="8" assist1="6"/>
     <awayPenalties period="1" number="2" minutes="2" code="INT" timeMinutes="2" timeSeconds="10"/>
     <awayPenalties period="2" number="10" minutes="2" code="BC" timeMinutes="1" timeSeconds="52"/>
-    <awayPenalties period="3" number="12" minutes="2" code="HCK" timeMinutes="13" timeSeconds="27"/>
+    <awayPenalties period="3" number="12" minutes="2" code="HKG" timeMinutes="13" timeSeconds="27"/>
     <awayScoring period="2" timeMinutes="1" timeSeconds="36" goal="8" assist1="2"/>
     <awayScoring period="3" timeMinutes="7" timeSeconds="24" goal="3"/>
     <awayScoring period="3" timeMinutes="5" timeSeconds="17" goal="8" assist1="16"/>
@@ -174,11 +181,15 @@
     <awayScoring period="2" timeMinutes="8" timeSeconds="11" goal="18" assist1="3"/>
     <awayScoring period="3" timeMinutes="3" timeSeconds="15" goal="18"/>
   </games>
-  <games gameNumber="12" date="2014-03-24T22:00:00.000-0400" arena="Jack Charron" home="B3" away="B7" iceType="B GAME" note="Missing Gamesheet">
-    <homeScoring/>
-    <awayScoring/>
-    <awayScoring/>
-    <awayScoring/>
+  <games gameNumber="12" date="2014-03-24T22:00:00.000-0400" arena="Jack Charron" home="B3" away="B7" iceType="B GAME">
+    <homePenalties period="1" number="11" minutes="2" code="TR" timeMinutes="3" timeSeconds="49"/>
+    <homePenalties period="1" number="10" minutes="2" code="CC" timeSeconds="49"/>
+    <homePenalties period="3" number="11" minutes="2" code="TR" timeMinutes="7" timeSeconds="10"/>
+    <homeScoring period="3" timeMinutes="11" timeSeconds="5" goal="11" assist1="9" assist2="16"/>
+    <awayPenalties period="3" number="5" minutes="2" code="CC" timeMinutes="3"/>
+    <awayScoring period="1" timeMinutes="2" timeSeconds="39" goal="8" assist1="12"/>
+    <awayScoring period="2" timeSeconds="1" goal="19" assist1="20" assist2="16"/>
+    <awayScoring period="3" timeMinutes="2" timeSeconds="3" goal="19" assist1="10"/>
   </games>
   <games gameNumber="4" date="2014-03-25T20:00:00.000-0400" arena="John Mlacak" home="A1" away="A4" iceType="A GAME" note="Missing Gamesheet">
     <homeScoring/>
@@ -193,9 +204,56 @@
     <homeScoring/>
     <awayScoring/>
   </games>
-  <games gameNumber="13" date="2014-03-27T18:30:00.000-0400" arena="KRC Rink" home="B6" away="B8" iceType="B GAME"/>
-  <games gameNumber="14" date="2014-03-27T19:30:00.000-0400" arena="KRC Rink" home="B4" away="B5" iceType="B GAME"/>
-  <games gameNumber="15" date="2014-03-27T20:30:00.000-0400" arena="KRC Rink" home="B1" away="B7" iceType="B GAME"/>
+  <games gameNumber="13" date="2014-03-27T18:30:00.000-0400" arena="KRC Rink" home="B6" away="B8" iceType="B GAME">
+    <homePenalties period="1" number="4" minutes="2" code="HKG" timeMinutes="2" timeSeconds="43"/>
+    <homePenalties period="2" number="9" minutes="2" code="HKG" timeMinutes="8" timeSeconds="41"/>
+    <homePenalties period="2" number="20" minutes="2" code="BC" timeSeconds="55"/>
+    <homePenalties period="3" number="9" minutes="2" code="INT" timeMinutes="6" timeSeconds="13"/>
+    <homeScoring period="3" timeMinutes="8" timeSeconds="6" goal="8" assist1="10"/>
+    <awayPenalties period="1" number="3" minutes="2" code="SL" timeMinutes="2" timeSeconds="43"/>
+    <awayPenalties period="1" number="6" minutes="2" code="INT" timeMinutes="1" timeSeconds="6"/>
+    <awayPenalties period="2" number="19" minutes="2" code="SL" timeMinutes="3" timeSeconds="10"/>
+    <awayPenalties period="2" number="4" minutes="2" code="INT" timeMinutes="2" timeSeconds="48"/>
+    <awayPenalties period="3" number="3" minutes="2" code="RO" timeMinutes="11" timeSeconds="11"/>
+    <awayScoring period="1" timeMinutes="8" timeSeconds="26" goal="16"/>
+    <awayScoring period="1" timeMinutes="1" timeSeconds="41" goal="17" assist1="12" assist2="8"/>
+    <awayScoring period="3" timeMinutes="14" timeSeconds="14" goal="17" assist1="6"/>
+    <awayScoring period="3" timeMinutes="5" timeSeconds="4" goal="11" assist1="19"/>
+  </games>
+  <games gameNumber="14" date="2014-03-27T19:30:00.000-0400" arena="KRC Rink" home="B4" away="B5" iceType="B GAME">
+    <homePenalties period="2" number="20" minutes="2" code="USC" timeMinutes="4" timeSeconds="1"/>
+    <homePenalties period="2" number="10" minutes="2" code="TR" timeMinutes="2" timeSeconds="16"/>
+    <homePenalties period="3" number="18" minutes="2" code="RO" timeMinutes="4" timeSeconds="37"/>
+    <homeScoring period="1" timeMinutes="6" timeSeconds="46" goal="11" assist1="4"/>
+    <awayPenalties period="1" number="17" minutes="2" code="HKG" timeMinutes="8" timeSeconds="7"/>
+    <awayPenalties period="1" number="4" minutes="2" code="INT" timeMinutes="1" timeSeconds="22"/>
+    <awayScoring period="2" timeMinutes="1" timeSeconds="19" goal="5" assist1="20"/>
+    <awayScoring period="3" timeMinutes="1" timeSeconds="42" goal="17"/>
+  </games>
+  <games gameNumber="15" date="2014-03-27T20:30:00.000-0400" arena="KRC Rink" home="B1" away="B7" iceType="B GAME">
+    <homePenalties period="1" number="11" minutes="2" code="TR" timeMinutes="3" timeSeconds="56"/>
+    <homePenalties period="1" number="14" minutes="2" code="INT" timeMinutes="1" timeSeconds="17"/>
+    <homePenalties period="3" number="14" minutes="2" code="CTH" timeMinutes="14" timeSeconds="38"/>
+    <homePenalties period="3" number="9" minutes="2" code="BC" timeMinutes="12" timeSeconds="25"/>
+    <homePenalties period="3" minutes="2" code="TMP" timeMinutes="12" timeSeconds="38"/>
+    <homePenalties period="3" number="3" minutes="2" code="CC" timeMinutes="8" timeSeconds="45"/>
+    <homeScoring period="1" timeMinutes="5" timeSeconds="58" goal="7" assist1="19"/>
+    <homeScoring period="1" timeMinutes="3" timeSeconds="41" goal="3" assist1="18" assist2="2"/>
+    <homeScoring period="1" timeMinutes="1" timeSeconds="33" goal="19" assist1="14" assist2="2"/>
+    <homeScoring period="2" timeMinutes="7" timeSeconds="23" goal="9" assist1="19" assist2="7"/>
+    <homeScoring period="2" timeMinutes="2" timeSeconds="26" goal="19" assist1="7" assist2="10"/>
+    <homeScoring period="2" timeMinutes="2" timeSeconds="14" goal="18" assist1="5"/>
+    <awayPenalties period="1" number="16" minutes="2" code="TR" timeMinutes="6" timeSeconds="9"/>
+    <awayPenalties period="1" number="10" minutes="2" code="TR" timeSeconds="24"/>
+    <awayPenalties period="2" number="5" minutes="2" code="HKG" timeMinutes="7" timeSeconds="35"/>
+    <awayPenalties period="2" number="10" minutes="2" code="CTH" timeMinutes="5" timeSeconds="51"/>
+    <awayPenalties period="2" number="4" minutes="2" code="HKG" timeMinutes="3" timeSeconds="15"/>
+    <awayPenalties period="2" number="8" minutes="3" code="CC" timeMinutes="1" timeSeconds="45"/>
+    <awayPenalties period="2" number="4" minutes="2" code="HKG" timeSeconds="30"/>
+    <awayPenalties period="3" number="12" minutes="10" code="M22" timeMinutes="12" timeSeconds="36"/>
+    <awayPenalties period="3" number="9" minutes="2" code="SL" timeMinutes="8" timeSeconds="45"/>
+    <awayScoring period="3" timeMinutes="6" timeSeconds="16" goal="6" assist1="11" assist2="5"/>
+  </games>
   <games gameNumber="16" date="2014-03-27T21:30:00.000-0400" arena="KRC Rink" home="B3" away="B2" iceType="B GAME"/>
   <games gameNumber="6" date="2014-03-28T20:30:00.000-0400" arena="KRC Rink" home="A5" away="A1" iceType="A GAME"/>
   <games gameNumber="7" date="2014-03-28T21:30:00.000-0400" arena="KRC Rink" home="A4" away="A2" iceType="A GAME"/>
