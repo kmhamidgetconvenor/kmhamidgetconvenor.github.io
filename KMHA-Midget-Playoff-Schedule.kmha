@@ -254,8 +254,19 @@
     <awayPenalties period="3" number="9" minutes="2" code="SL" timeMinutes="8" timeSeconds="45"/>
     <awayScoring period="3" timeMinutes="6" timeSeconds="16" goal="6" assist1="11" assist2="5"/>
   </games>
-  <games gameNumber="16" date="2014-03-27T21:30:00.000-0400" arena="KRC Rink" home="B3" away="B2" iceType="B GAME"/>
-  <games gameNumber="6" date="2014-03-28T20:30:00.000-0400" arena="KRC Rink" home="A5" away="A1" iceType="A GAME"/>
+  <games gameNumber="16" date="2014-03-27T21:30:00.000-0400" arena="KRC Rink" home="B3" away="B2" iceType="B GAME">
+    <homeScoring period="1" timeMinutes="6" timeSeconds="19" goal="19" assist1="20"/>
+    <homeScoring period="2" timeMinutes="5" timeSeconds="42" goal="12" assist1="20" assist2="19"/>
+    <homeScoring period="2" timeMinutes="2" timeSeconds="6" goal="12" assist1="20" assist2="19"/>
+    <homeScoring period="3" timeMinutes="3" goal="11" assist1="16" assist2="9"/>
+    <awayPenalties period="3" number="16" minutes="2" code="INT" timeMinutes="5" timeSeconds="20"/>
+    <awayScoring period="1" timeMinutes="9" timeSeconds="52" goal="11"/>
+    <awayScoring period="3" timeMinutes="2" timeSeconds="30" goal="20" assist1="19"/>
+  </games>
+  <games gameNumber="6" date="2014-03-28T20:30:00.000-0400" arena="KRC Rink" home="A5" away="A1" iceType="A GAME" note="Missing Gamesheet">
+    <homeScoring/>
+    <awayScoring/>
+  </games>
   <games gameNumber="7" date="2014-03-28T21:30:00.000-0400" arena="KRC Rink" home="A4" away="A2" iceType="A GAME"/>
   <games gameNumber="8" date="2014-03-30T20:00:00.000-0400" arena="Jack Charron" home="A3" away="A4" iceType="A GAME"/>
   <games gameNumber="9" date="2014-03-30T21:00:00.000-0400" arena="Jack Charron" home="A2" away="A5" iceType="A GAME"/>
