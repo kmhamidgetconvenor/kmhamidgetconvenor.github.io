@@ -385,13 +385,21 @@
     <awayScoring period="2" timeMinutes="1" timeSeconds="56" goal="17" assist1="7" assist2="6"/>
     <awayScoring period="3" timeMinutes="13" timeSeconds="24" goal="19"/>
   </games>
-  <games gameNumber="12" date="2014-04-01T20:00:00.000-0400" arena="John Mlacak" home="A2" away="A5" iceType="A GAME"/>
+  <games gameNumber="12" date="2014-04-01T20:00:00.000-0400" arena="John Mlacak" home="A2" away="A5" iceType="A GAME" note="Missing Gamesheet">
+    <homeScoring/>
+    <awayScoring/>
+    <awayScoring/>
+  </games>
   <games gameNumber="21" date="2014-04-01T21:00:00.000-0400" arena="Jack Charron" home="B8" away="B3" iceType="B GAME" note="Missing Gamesheet">
     <homeScoring/>
     <awayScoring/>
     <awayScoring/>
   </games>
-  <games gameNumber="13" date="2014-04-01T21:00:00.000-0400" arena="John Mlacak" home="A3" away="A1" iceType="A GAME"/>
+  <games gameNumber="13" date="2014-04-01T21:00:00.000-0400" arena="John Mlacak" home="A3" away="A1" iceType="A GAME">
+    <homeScoring/>
+    <homeScoring/>
+    <awayScoring/>
+  </games>
   <games gameNumber="22" date="2014-04-03T18:00:00.000-0400" arena="Sensplex Canadian Tire" home="B1" away="B2" iceType="B GAME"/>
   <games gameNumber="14" date="2014-04-03T18:30:00.000-0400" arena="KRC Rink" home="A1" away="A5" iceType="A GAME"/>
   <games gameNumber="23" date="2014-04-03T19:00:00.000-0400" arena="Sensplex Canadian Tire" home="B6" away="B4" iceType="B GAME"/>
