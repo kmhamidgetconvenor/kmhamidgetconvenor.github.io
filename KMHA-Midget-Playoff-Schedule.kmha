@@ -117,7 +117,7 @@
     <awayScoring period="3" timeMinutes="9" timeSeconds="34" goal="9" assist1="16"/>
     <awayScoring period="3" timeMinutes="1" timeSeconds="21" goal="16"/>
   </games>
-  <games gameNumber="2" date="2014-03-21T20:00:00.000-0400" arena="John Mlacak" home="A1" away="A3" iceType="A GAME" note="Missing Gamesheet">
+  <games gameNumber="2" date="2014-03-21T20:00:00.000-0400" arena="John Mlacak" home="A1" away="A3" iceType="A GAME">
     <homeScoring/>
     <homeScoring/>
     <awayScoring/>
@@ -460,7 +460,7 @@
     <awayScoring period="3" timeMinutes="5" timeSeconds="23" goal="12"/>
     <awayScoring period="3" timeMinutes="4" timeSeconds="5" goal="12" assist1="6" assist2="17"/>
   </games>
-  <games gameNumber="23" date="2014-04-03T19:00:00.000-0400" arena="Sensplex Canadian Tire" home="B6" away="B4" iceType="B GAME" note="Missing Gamesheet">
+  <games gameNumber="23" date="2014-04-03T19:00:00.000-0400" arena="Sensplex Canadian Tire" home="B6" away="B4" iceType="B GAME">
     <awayScoring/>
     <awayScoring/>
   </games>
@@ -492,17 +492,37 @@
     <awayScoring period="2" timeSeconds="1" goal="10" assist1="5" assist2="3"/>
     <awayScoring period="3" timeMinutes="6" timeSeconds="46" goal="15" assist1="19" assist2="12"/>
   </games>
-  <games gameNumber="16" date="2014-04-06T16:30:00.000-0400" arena="Jack Charron" home="A5" away="A4" iceType="A GAME" note="Semi Final One: First Versus Fourth: 1.5 Hours of overtime allocated"/>
-  <games gameNumber="17" date="2014-04-06T17:30:00.000-0400" arena="Jack Charron" home="A2" away="A3" iceType="A GAME" note="Semi Final Two: Second Versus Third: 1.5 Hours of overtime allocated"/>
-  <games gameNumber="25" date="2014-04-06T18:30:00.000-0400" arena="Jack Charron" home="B1" away="B3" iceType="B GAME" note="Semi Final One: First Versus Fourth: 1.5 Hours of overtime allocated"/>
-  <games gameNumber="26" date="2014-04-06T19:30:00.000-0400" arena="Jack Charron" home="B4" away="B7" iceType="B GAME" note="Semi Final Two: Second Versus Third: 1.5 Hours of overtime allocated"/>
+  <games gameNumber="16" date="2014-04-06T16:30:00.000-0400" arena="Jack Charron" home="A5" away="A4" iceType="A GAME" note="Semi Final One: First Versus Fourth: 1.5 Hours of overtime allocated">
+    <homeScoring/>
+    <homeScoring/>
+    <awayScoring/>
+    <awayScoring/>
+    <awayScoring/>
+  </games>
+  <games gameNumber="17" date="2014-04-06T17:30:00.000-0400" arena="Jack Charron" home="A2" away="A3" iceType="A GAME" note="Semi Final Two: Second Versus Third: Game postponed"/>
+  <games gameNumber="25" date="2014-04-06T18:30:00.000-0400" arena="Jack Charron" home="B1" away="B3" iceType="B GAME" note="Semi Final One: First Versus Fourth: 1.5 Hours of overtime allocated">
+    <homeScoring/>
+    <awayScoring/>
+    <awayScoring/>
+  </games>
+  <games gameNumber="26" date="2014-04-06T19:30:00.000-0400" arena="Jack Charron" home="B4" away="B7" iceType="B GAME" note="Semi Final Two: Second Versus Third: 1.5 Hours of overtime allocated">
+    <homeScoring/>
+    <homeScoring/>
+    <homeScoring/>
+    <homeScoring/>
+    <homeScoring/>
+    <awayScoring/>
+    <awayScoring/>
+    <awayScoring/>
+  </games>
   <games date="2014-04-06T20:30:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="OVERTIME" note="Semi Finals: overtime allocated until 10:00"/>
-  <games gameNumber="18" date="2014-04-09T19:00:00.000-0400" arena="KRC Arena" home="Midget" away="Midget" iceType="A GAME" note="Final Game One: no overtime allocated"/>
-  <games gameNumber="27" date="2014-04-09T20:00:00.000-0400" arena="KRC Arena" home="Midget" away="Midget" iceType="B GAME" note="Final Game One: no overtime allocated"/>
-  <games gameNumber="28" date="2014-04-10T19:30:00.000-0400" arena="KRC Rink" home="Midget" away="Midget" iceType="B GAME" note="Final Game Two: no overtime allocated"/>
-  <games gameNumber="19" date="2014-04-10T20:30:00.000-0400" arena="KRC Rink" home="Midget" away="Midget" iceType="A GAME" note="Final Game Two: no overtime allocated"/>
-  <games gameNumber="29" date="2014-04-11T20:00:00.000-0400" arena="KRC Rink" home="Midget" away="Midget" iceType="B GAME" note="Final Game Three: If Necessary: 1 Hour of overtime allocated"/>
+  <games gameNumber="17" date="2014-04-08T20:00:00.000-0400" arena="KRC Arena" home="A2" away="A3" iceType="A GAME" note="Semi Final Two: Second Versus Third: complete game"/>
+  <games gameNumber="18" date="2014-04-09T19:00:00.000-0400" arena="KRC Arena" home="Midget" away="A4" iceType="A GAME" note="Final Game One: no overtime allocated"/>
+  <games gameNumber="27" date="2014-04-09T20:00:00.000-0400" arena="KRC Arena" home="B3" away="B4" iceType="B GAME" note="Final Game One: no overtime allocated"/>
+  <games gameNumber="28" date="2014-04-10T19:30:00.000-0400" arena="KRC Rink" home="B4" away="B3" iceType="B GAME" note="Final Game Two: no overtime allocated"/>
+  <games gameNumber="19" date="2014-04-10T20:30:00.000-0400" arena="KRC Rink" home="A4" away="Midget" iceType="A GAME" note="Final Game Two: no overtime allocated"/>
+  <games gameNumber="29" date="2014-04-11T20:00:00.000-0400" arena="KRC Rink" home="B3" away="B4" iceType="B GAME" note="Final Game Three: If Necessary: 1 Hour of overtime allocated"/>
   <games date="2014-04-11T21:00:00.000-0400" arena="KRC Rink" home="Midget" away="Midget" iceType="OVERTIME" note="Final Game Three: overtime allocated until 10:00"/>
-  <games gameNumber="20" date="2014-04-14T20:15:00.000-0400" arena="Goulbourn Recreation Complex Rink B" home="Midget" away="Midget" iceType="A GAME" note="Final Game Three: If Necessary: 1 Hour of overtime allocated"/>
+  <games gameNumber="20" date="2014-04-14T20:15:00.000-0400" arena="Goulbourn Recreation Complex Rink B" home="Midget" away="A4" iceType="A GAME" note="Final Game Three: If Necessary: 1 Hour of overtime allocated"/>
   <games date="2014-04-14T21:15:00.000-0400" arena="Goulbourn Recreation Complex Rink B" home="Midget" away="Midget" iceType="OVERTIME" note="Final Game Three: overtime allocated until 10:15"/>
 </com.ahunter.kmha:Midget>
