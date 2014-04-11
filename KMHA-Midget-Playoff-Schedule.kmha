@@ -541,10 +541,15 @@
     <awayScoring/>
     <awayScoring/>
   </games>
-  <games gameNumber="28" date="2014-04-10T19:30:00.000-0400" arena="KRC Rink" home="B4" away="B3" iceType="B GAME" note="Final Game Two: no overtime allocated"/>
-  <games gameNumber="19" date="2014-04-10T20:30:00.000-0400" arena="KRC Rink" home="A4" away="A3" iceType="A GAME" note="Final Game Two: no overtime allocated"/>
-  <games gameNumber="29" date="2014-04-11T20:00:00.000-0400" arena="KRC Rink" home="B3" away="B4" iceType="B GAME" note="Final Game Three: If Necessary: 1 Hour of overtime allocated"/>
+  <games gameNumber="28" date="2014-04-10T19:30:00.000-0400" arena="KRC Rink" home="B4" away="B3" iceType="B GAME" note="Final Game Two: no overtime allocated">
+    <homeScoring/>
+    <homeScoring/>
+  </games>
+  <games gameNumber="19" date="2014-04-10T20:30:00.000-0400" arena="KRC Rink" home="A4" away="A3" iceType="A GAME" note="Final Game Two: no overtime allocated">
+    <awayScoring/>
+  </games>
+  <games gameNumber="29" date="2014-04-11T20:00:00.000-0400" arena="KRC Rink" home="B3" away="B4" iceType="B GAME" note="Final Game Three: 1 Hour of overtime allocated"/>
   <games date="2014-04-11T21:00:00.000-0400" arena="KRC Rink" home="B3" away="B4" iceType="OVERTIME" note="Final Game Three: overtime allocated until 10:00"/>
-  <games gameNumber="20" date="2014-04-14T20:15:00.000-0400" arena="Goulbourn Recreation Complex Rink B" home="A3" away="A4" iceType="A GAME" note="Final Game Three: If Necessary: 1 Hour of overtime allocated"/>
+  <games gameNumber="20" date="2014-04-14T20:15:00.000-0400" arena="Goulbourn Recreation Complex Rink B" home="A3" away="A4" iceType="A GAME" note="Final Game Three: 1 Hour of overtime allocated"/>
   <games date="2014-04-14T21:15:00.000-0400" arena="Goulbourn Recreation Complex Rink B" home="A3" away="A4" iceType="OVERTIME" note="Final Game Three: overtime allocated until 10:15"/>
 </com.ahunter.kmha:Midget>
