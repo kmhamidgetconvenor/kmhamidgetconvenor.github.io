@@ -1,4 +1,4 @@
 kmhamidgetconvenor.github.io
 ============================
 
-KMHA Midget Playoff Schedules, Standings and Statistics
+KMHA Midget 2014-1015 Team Schedules, Regular Season Standings and Cross Check Reports
