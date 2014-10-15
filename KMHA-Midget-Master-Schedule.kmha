@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="ASCII"?>
-<com.ahunter.kmha:Midget xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="Wednesday October 1">
-  <games gameNumber="1" date="2014-10-09T18:30:00.000-0400" arena="KRC Rink" home="A1" away="A3" iceType="A GAME" iceOwner="kmha"/>
+<com.ahunter.kmha:Midget xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="Tuesday October 14">
+  <games gameNumber="1" date="2014-10-09T18:30:00.000-0400" arena="KRC Rink" home="A1" away="A3" homeScore="2" awayScore="5" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="2" date="2014-10-09T19:30:00.000-0400" arena="KRC Rink" home="A4" away="A5" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="1" date="2014-10-09T20:30:00.000-0400" arena="KRC Rink" home="B1" away="B4" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="2" date="2014-10-09T21:00:00.000-0400" arena="Jack Charron" home="B3" away="B7" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="3" date="2014-10-09T21:30:00.000-0400" arena="KRC Rink" home="B6" away="B8" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="4" date="2014-10-09T22:00:00.000-0400" arena="Jack Charron" home="B5" away="B2" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="5" date="2014-10-10T18:00:00.000-0400" arena="Sensplex Canadian Tire" home="B1" away="B7" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="6" date="2014-10-10T19:00:00.000-0400" arena="KRC Arena" home="B5" away="B3" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="7" date="2014-10-10T19:00:00.000-0400" arena="Sensplex Canadian Tire" home="B2" away="B6" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="8" date="2014-10-10T20:00:00.000-0400" arena="KRC Arena" home="B4" away="B8" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="3" date="2014-10-10T21:00:00.000-0400" arena="KRC Arena" home="A2" away="A3" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="1" date="2014-10-09T20:30:00.000-0400" arena="KRC Rink" home="B1" away="B4" homeScore="3" awayScore="2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="2" date="2014-10-09T21:00:00.000-0400" arena="Jack Charron" home="B3" away="B7" homeScore="2" awayScore="4" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
+  <games gameNumber="3" date="2014-10-09T21:30:00.000-0400" arena="KRC Rink" home="B6" away="B8" homeScore="1" awayScore="1" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="4" date="2014-10-09T22:00:00.000-0400" arena="Jack Charron" home="B5" away="B2" awayScore="3" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
+  <games gameNumber="5" date="2014-10-10T18:00:00.000-0400" arena="Sensplex Canadian Tire" home="B1" away="B7" homeScore="3" awayScore="2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="6" date="2014-10-10T19:00:00.000-0400" arena="KRC Arena" home="B5" away="B3" homeScore="4" awayScore="3" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="7" date="2014-10-10T19:00:00.000-0400" arena="Sensplex Canadian Tire" home="B2" away="B6" homeScore="4" awayScore="2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="8" date="2014-10-10T20:00:00.000-0400" arena="KRC Arena" home="B4" away="B8" homeScore="3" awayScore="3" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="3" date="2014-10-10T21:00:00.000-0400" arena="KRC Arena" home="A2" away="A3" awayScore="1" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="4" date="2014-10-13T19:00:00.000-0400" arena="Jack Charron" home="A3" away="A4" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="5" date="2014-10-13T20:00:00.000-0400" arena="Jack Charron" home="A2" away="A5" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="5" date="2014-10-13T20:00:00.000-0400" arena="Jack Charron" home="A2" away="A5" homeScore="3" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="9" date="2014-10-13T21:00:00.000-0400" arena="Jack Charron" home="B4" away="B5" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="10" date="2014-10-13T22:00:00.000-0400" arena="Jack Charron" home="B6" away="B7" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="11" date="2014-10-16T18:30:00.000-0400" arena="KRC Rink" home="B4" away="B7" iceType="B GAME" iceOwner="kmha"/>
