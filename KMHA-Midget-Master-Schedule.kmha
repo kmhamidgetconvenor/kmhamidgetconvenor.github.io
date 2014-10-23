@@ -22,7 +22,7 @@
   <games gameNumber="14" date="2014-10-16T21:30:00.000-0400" arena="KRC Rink" home="B8" away="B5" homeScore="4" awayScore="4" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="7" date="2014-10-16T22:00:00.000-0400" arena="Jack Charron" home="A3" away="A5" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="15" date="2014-10-17T18:00:00.000-0400" arena="Sensplex Palladium" home="B1" away="B3" homeScore="1" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
-  <games gameNumber="16" date="2014-10-17T19:00:00.000-0400" arena="Sensplex Palladium" home="B2" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="16" date="2014-10-17T19:00:00.000-0400" arena="Sensplex Palladium" home="B2" away="B8" awayScore="3" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="8" date="2014-10-17T20:00:00.000-0400" arena="Sensplex Palladium" home="A1" away="A4" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="17" date="2014-10-20T19:00:00.000-0400" arena="Jack Charron" home="B3" away="B4" awayScore="5" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="18" date="2014-10-20T20:00:00.000-0400" arena="Jack Charron" home="B8" away="B1" homeScore="4" awayScore="4" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
