@@ -81,6 +81,7 @@
   <games gameNumber="48" date="2014-11-14T19:00:00.000-0500" arena="KRC Arena" home="B2" away="B3" iceType="B GAME" iceOwner="kmha"/>
   <games date="2014-11-15T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Brockville Tournament"/>
   <games date="2014-11-15T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Brockville Tournament"/>
+  <games date="2014-11-16T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Renfrew Tournament"/>
   <games date="2014-11-16T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Brockville Tournament"/>
   <games date="2014-11-16T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Brockville Tournament"/>
   <games gameNumber="49" date="2014-11-17T19:00:00.000-0500" arena="Jack Charron" home="B2" away="B7" iceType="B GAME" iceOwner="kmha"/>
@@ -158,6 +159,7 @@
   <games date="2014-12-22T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2014-12-22T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2014-12-22T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games date="2015-01-03T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Carleton Place Tournament"/>
   <games date="2015-01-04T16:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-01-04T17:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-01-04T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
@@ -237,13 +239,16 @@
   <games date="2015-02-12T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-12T21:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-12T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games date="2015-02-13T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
   <games date="2015-02-13T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-13T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-13T19:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-13T20:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-13T21:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games date="2015-02-14T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
   <games date="2015-02-14T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-14T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Kanata Tournament"/>
+  <games date="2015-02-15T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
   <games date="2015-02-15T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-15T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-16T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
@@ -271,4 +276,7 @@
   <games date="2015-02-27T19:15:00.000-0500" arena="Sensplex Mattamy" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-27T20:15:00.000-0500" arena="Sensplex Mattamy" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-27T21:15:00.000-0500" arena="Sensplex Mattamy" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games date="2015-03-27T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
+  <games date="2015-03-28T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
+  <games date="2015-03-29T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
 </com.ahunter.kmha:Midget>
