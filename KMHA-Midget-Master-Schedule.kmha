@@ -75,11 +75,8 @@
   <games gameNumber="28" date="2014-11-13T21:00:00.000-0500" arena="Jack Charron" home="A3" away="A5" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="46" date="2014-11-13T21:30:00.000-0500" arena="KRC Rink" home="B2" away="B1" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="29" date="2014-11-13T22:00:00.000-0500" arena="Jack Charron" home="A1" away="A4" iceType="A GAME" iceOwner="kmha"/>
-  <games date="2014-11-14T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Brockville Tournament"/>
   <games gameNumber="47" date="2014-11-14T18:00:00.000-0500" arena="KRC Arena" home="B5" away="B8" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="48" date="2014-11-14T19:00:00.000-0500" arena="KRC Arena" home="B2" away="B3" iceType="B GAME" iceOwner="kmha"/>
-  <games date="2014-11-15T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Brockville Tournament"/>
-  <games date="2014-11-16T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Brockville Tournament"/>
   <games gameNumber="49" date="2014-11-17T19:00:00.000-0500" arena="Jack Charron" home="B2" away="B7" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="50" date="2014-11-17T20:00:00.000-0500" arena="Jack Charron" home="B5" away="B6" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="30" date="2014-11-17T21:00:00.000-0500" arena="Jack Charron" home="A4" away="A3" iceType="A GAME" iceOwner="kmha"/>
