@@ -158,7 +158,10 @@
   <games date="2014-12-22T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2014-12-22T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2014-12-22T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games date="2015-01-02T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-03T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Carleton Place Tournament"/>
+  <games date="2015-01-03T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
+  <games date="2015-01-04T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-04T16:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-01-04T17:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-01-04T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
