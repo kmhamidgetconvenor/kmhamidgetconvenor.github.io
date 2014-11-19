@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<com.ahunter.kmha:Midget xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="Wednesday November 12">
+<com.ahunter.kmha:Midget xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ahunter.kmha="http://com.ahunter.kmha" name="Tuesday November 18">
   <games gameNumber="1" date="2014-10-09T18:30:00.000-0400" arena="KRC Rink" home="A1" away="A3" homeScore="2" awayScore="5" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="2" date="2014-10-09T19:30:00.000-0400" arena="KRC Rink" home="A4" away="A5" homeScore="3" awayScore="8" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="1" date="2014-10-09T20:30:00.000-0400" arena="KRC Rink" home="B1" away="B4" homeScore="3" awayScore="2" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
@@ -52,33 +52,33 @@
   <games gameNumber="31" date="2014-11-02T19:00:00.000-0500" arena="KRC Arena" home="B5" away="B1" homeScore="2" awayScore="1" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="32" date="2014-11-02T20:00:00.000-0500" arena="KRC Arena" home="B7" away="B8" homeScore="2" awayScore="2" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="33" date="2014-11-03T19:00:00.000-0500" arena="Jack Charron" home="B7" away="B1" homeScore="1" awayScore="4" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
-  <games gameNumber="34" date="2014-11-03T20:00:00.000-0500" arena="Jack Charron" home="B6" away="B2" awayScore="5" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="34" date="2014-11-03T20:00:00.000-0500" arena="Jack Charron" home="B6" away="B2" awayScore="5" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="20" date="2014-11-03T21:00:00.000-0500" arena="Jack Charron" home="A4" away="A5" homeScore="1" awayScore="2" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="21" date="2014-11-03T22:00:00.000-0500" arena="Jack Charron" home="A1" away="A3" homeScore="2" awayScore="3" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="35" date="2014-11-05T21:00:00.000-0500" arena="John Mlacak" home="B3" away="B5" homeScore="3" awayScore="2" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="36" date="2014-11-05T22:00:00.000-0500" arena="John Mlacak" home="B8" away="B4" homeScore="1" awayScore="4" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="37" date="2014-11-06T18:30:00.000-0500" arena="KRC Rink" home="B7" away="B6" homeScore="3" awayScore="4" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
-  <games gameNumber="38" date="2014-11-06T19:30:00.000-0500" arena="KRC Rink" home="B5" away="B4" homeScore="2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="38" date="2014-11-06T19:30:00.000-0500" arena="KRC Rink" home="B5" away="B4" homeScore="2" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="22" date="2014-11-06T20:30:00.000-0500" arena="KRC Rink" home="A4" away="A1" homeScore="1" awayScore="4" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="39" date="2014-11-06T21:00:00.000-0500" arena="Jack Charron" home="B8" away="B2" awayScore="5" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="23" date="2014-11-06T21:30:00.000-0500" arena="KRC Rink" home="A2" away="A3" homeScore="2" awayScore="1" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="40" date="2014-11-06T22:00:00.000-0500" arena="Jack Charron" home="B3" away="B1" homeScore="4" awayScore="6" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="24" date="2014-11-10T19:00:00.000-0500" arena="Jack Charron" home="A4" away="A2" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="25" date="2014-11-10T20:00:00.000-0500" arena="Jack Charron" home="A1" away="A5" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="41" date="2014-11-10T21:00:00.000-0500" arena="Jack Charron" home="B6" away="B1" homeScore="2" awayScore="2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="41" date="2014-11-10T21:00:00.000-0500" arena="Jack Charron" home="B6" away="B1" homeScore="2" awayScore="2" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="42" date="2014-11-10T22:00:00.000-0500" arena="Jack Charron" home="B7" away="B4" homeScore="3" awayScore="4" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="26" date="2014-11-11T20:00:00.000-0500" arena="John Mlacak" home="A3" away="A4" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="27" date="2014-11-11T21:00:00.000-0500" arena="John Mlacak" home="A2" away="A5" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="43" date="2014-11-13T18:30:00.000-0500" arena="KRC Rink" home="B4" away="B6" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="44" date="2014-11-13T19:30:00.000-0500" arena="KRC Rink" home="B7" away="B5" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="45" date="2014-11-13T20:30:00.000-0500" arena="KRC Rink" home="B3" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="27" date="2014-11-11T21:00:00.000-0500" arena="John Mlacak" home="A2" away="A5" homeScore="2" awayScore="2" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="43" date="2014-11-13T18:30:00.000-0500" arena="KRC Rink" home="B4" away="B6" homeScore="2" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
+  <games gameNumber="44" date="2014-11-13T19:30:00.000-0500" arena="KRC Rink" home="B7" away="B5" homeScore="4" awayScore="3" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
+  <games gameNumber="45" date="2014-11-13T20:30:00.000-0500" arena="KRC Rink" home="B3" away="B8" homeScore="1" awayScore="1" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="28" date="2014-11-13T21:00:00.000-0500" arena="Jack Charron" home="A3" away="A5" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="46" date="2014-11-13T21:30:00.000-0500" arena="KRC Rink" home="B2" away="B1" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="46" date="2014-11-13T21:30:00.000-0500" arena="KRC Rink" home="B2" away="B1" homeScore="2" awayScore="1" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="29" date="2014-11-13T22:00:00.000-0500" arena="Jack Charron" home="A1" away="A4" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="47" date="2014-11-14T18:00:00.000-0500" arena="KRC Arena" home="B5" away="B8" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="48" date="2014-11-14T19:00:00.000-0500" arena="KRC Arena" home="B2" away="B3" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="49" date="2014-11-17T19:00:00.000-0500" arena="Jack Charron" home="B2" away="B7" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="50" date="2014-11-17T20:00:00.000-0500" arena="Jack Charron" home="B5" away="B6" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="47" date="2014-11-14T18:00:00.000-0500" arena="KRC Arena" home="B5" away="B8" homeScore="4" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
+  <games gameNumber="48" date="2014-11-14T19:00:00.000-0500" arena="KRC Arena" home="B2" away="B3" homeScore="2" awayScore="5" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
+  <games gameNumber="49" date="2014-11-17T19:00:00.000-0500" arena="Jack Charron" home="B2" away="B7" homeScore="2" awayScore="3" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="50" date="2014-11-17T20:00:00.000-0500" arena="Jack Charron" home="B5" away="B6" homeScore="5" awayScore="2" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="30" date="2014-11-17T21:00:00.000-0500" arena="Jack Charron" home="A4" away="A3" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="31" date="2014-11-17T22:00:00.000-0500" arena="Jack Charron" home="A5" away="A2" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="32" date="2014-11-20T18:30:00.000-0500" arena="KRC Rink" home="A4" away="A1" iceType="A GAME" iceOwner="kmha"/>
