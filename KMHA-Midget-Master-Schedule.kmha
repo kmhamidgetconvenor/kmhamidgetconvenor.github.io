@@ -116,7 +116,6 @@
   <games gameNumber="72" date="2014-12-05T19:00:00.000-0500" arena="KRC Arena" home="B1" away="B8" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="43" date="2014-12-05T20:00:00.000-0500" arena="KRC Arena" home="A2" away="A3" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="44" date="2014-12-05T21:00:00.000-0500" arena="KRC Arena" home="A4" away="A5" iceType="A GAME" iceOwner="kmha"/>
-  <games date="2014-12-06T00:23:00.000-0500" home="B7" iceType="TOURNAMENT" note="North Dundas Tournament"/>
   <games gameNumber="45" date="2014-12-08T19:00:00.000-0500" arena="Jack Charron" home="A3" away="A5" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="73" date="2014-12-08T20:00:00.000-0500" arena="Jack Charron" home="A1" away="A2" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="74" date="2014-12-08T21:00:00.000-0500" arena="Jack Charron" home="B5" away="B8" iceType="B GAME" iceOwner="kmha"/>
