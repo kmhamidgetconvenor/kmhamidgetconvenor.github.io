@@ -242,6 +242,7 @@
   <games date="2015-02-12T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-13T00:23:00.000-0500" home="A3" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
   <games date="2015-02-13T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
+  <games date="2015-02-13T00:23:00.000-0500" home="B2" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-13T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-13T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-13T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Kanata Tournament"/>
@@ -250,11 +251,13 @@
   <games date="2015-02-13T21:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-14T00:23:00.000-0500" home="A3" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
   <games date="2015-02-14T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
+  <games date="2015-02-14T00:23:00.000-0500" home="B2" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-14T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-14T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-14T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-15T00:23:00.000-0500" home="A3" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
   <games date="2015-02-15T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
+  <games date="2015-02-15T00:23:00.000-0500" home="B2" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-15T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-15T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-15T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Kanata Tournament"/>
