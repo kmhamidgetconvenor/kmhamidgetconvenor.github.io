@@ -101,8 +101,8 @@
   <games gameNumber="60" date="2014-11-27T21:00:00.000-0500" arena="Jack Charron" home="B7" away="B3" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="38" date="2014-11-27T21:30:00.000-0500" arena="KRC Rink" home="A2" away="A4" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="39" date="2014-11-28T20:00:00.000-0500" arena="KRC Arena" home="A5" away="A4" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="63" date="2014-11-28T21:00:00.000-0500" arena="KRC Arena" home="B7" away="B1" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="64" date="2014-11-30T17:00:00.000-0500" arena="Jack Charron" home="B6" away="B2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="63" date="2014-11-28T21:00:00.000-0500" arena="KRC Arena" home="B7" away="B6" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="64" date="2014-11-30T17:00:00.000-0500" arena="Jack Charron" home="B1" away="B2" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="65" date="2014-11-30T18:00:00.000-0500" arena="Jack Charron" home="B4" away="B3" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="66" date="2014-12-01T19:00:00.000-0500" arena="Jack Charron" home="B2" away="B7" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="67" date="2014-12-01T20:00:00.000-0500" arena="Jack Charron" home="B5" away="B6" iceType="B GAME" iceOwner="kmha"/>
