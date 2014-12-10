@@ -157,9 +157,12 @@
   <games gameNumber="90" date="2014-12-22T20:00:00.000-0500" arena="Jack Charron" home="B2" away="B3" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="55" date="2014-12-22T21:00:00.000-0500" arena="Jack Charron" home="A3" away="A5" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="56" date="2014-12-22T22:00:00.000-0500" arena="Jack Charron" home="A1" away="A2" iceType="A GAME" iceOwner="kmha"/>
+  <games date="2015-01-02T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-02T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
+  <games date="2015-01-03T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-03T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Carleton Place Tournament"/>
   <games date="2015-01-03T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
+  <games date="2015-01-04T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-04T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-04T16:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-01-04T17:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
@@ -212,12 +215,15 @@
   <games date="2015-01-29T21:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-01-29T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-01-30T00:23:00.000-0500" home="A2" iceType="TOURNAMENT" note="Cumberland Tournament"/>
+  <games date="2015-01-30T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Cumberland Sensplex Tournament"/>
   <games date="2015-01-30T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Orleans Tournament"/>
   <games date="2015-01-30T18:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-01-30T19:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-01-31T00:23:00.000-0500" home="A2" iceType="TOURNAMENT" note="Cumberland Tournament"/>
+  <games date="2015-01-31T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Cumberland Sensplex Tournament"/>
   <games date="2015-01-31T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Orleans Tournament"/>
   <games date="2015-02-01T00:23:00.000-0500" home="A2" iceType="TOURNAMENT" note="Cumberland Tournament"/>
+  <games date="2015-02-01T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Cumberland Sensplex Tournament"/>
   <games date="2015-02-01T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Orleans Tournament"/>
   <games date="2015-02-02T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-02T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
@@ -229,8 +235,11 @@
   <games date="2015-02-05T19:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-05T20:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-05T21:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games date="2015-02-06T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Metcalfe Tournament"/>
   <games date="2015-02-06T18:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-06T19:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games date="2015-02-07T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Metcalfe Tournament"/>
+  <games date="2015-02-08T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Metcalfe Tournament"/>
   <games date="2015-02-09T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-09T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
   <games date="2015-02-09T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
