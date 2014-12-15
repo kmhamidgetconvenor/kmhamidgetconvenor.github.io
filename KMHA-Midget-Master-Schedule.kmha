@@ -94,11 +94,11 @@
   <games gameNumber="36" date="2014-11-24T20:00:00.000-0500" arena="Jack Charron" home="A5" away="A1" homeScore="1" awayScore="6" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="57" date="2014-11-24T21:00:00.000-0500" arena="Jack Charron" home="B3" away="B5" homeScore="4" awayScore="1" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="58" date="2014-11-24T22:00:00.000-0500" arena="Jack Charron" home="B8" away="B4" homeScore="3" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="61" date="2014-11-27T18:30:00.000-0500" arena="KRC Rink" home="B8" away="B6" homeScore="2" awayScore="1" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
-  <games gameNumber="62" date="2014-11-27T19:30:00.000-0500" arena="KRC Rink" home="B2" away="B5" homeScore="1" awayScore="3" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
-  <games gameNumber="59" date="2014-11-27T20:00:00.000-0500" arena="Jack Charron" home="B4" away="B1" homeScore="4" awayScore="2" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
+  <games gameNumber="59" date="2014-11-27T18:30:00.000-0500" arena="KRC Rink" home="B8" away="B6" homeScore="2" awayScore="1" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
+  <games gameNumber="60" date="2014-11-27T19:30:00.000-0500" arena="KRC Rink" home="B2" away="B5" homeScore="1" awayScore="3" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
+  <games gameNumber="61" date="2014-11-27T20:00:00.000-0500" arena="Jack Charron" home="B4" away="B1" homeScore="4" awayScore="2" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="37" date="2014-11-27T20:30:00.000-0500" arena="KRC Rink" home="A3" away="A1" homeScore="1" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
-  <games gameNumber="60" date="2014-11-27T21:00:00.000-0500" arena="Jack Charron" home="B7" away="B3" homeScore="5" awayScore="3" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
+  <games gameNumber="62" date="2014-11-27T21:00:00.000-0500" arena="Jack Charron" home="B7" away="B3" homeScore="5" awayScore="3" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="38" date="2014-11-27T21:30:00.000-0500" arena="KRC Rink" home="A2" away="A4" homeScore="1" awayScore="4" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="39" date="2014-11-28T20:00:00.000-0500" arena="KRC Arena" home="A5" away="A4" homeScore="2" awayScore="3" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="63" date="2014-11-28T21:00:00.000-0500" arena="KRC Arena" home="B7" away="B6" homeScore="2" awayScore="4" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
@@ -117,20 +117,20 @@
   <games gameNumber="43" date="2014-12-05T20:00:00.000-0500" arena="KRC Arena" home="A2" away="A3" homeScore="2" awayScore="1" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="44" date="2014-12-05T21:00:00.000-0500" arena="KRC Arena" home="A4" away="A5" homeScore="4" awayScore="6" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games gameNumber="45" date="2014-12-08T19:00:00.000-0500" arena="Jack Charron" home="A3" away="A5" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="73" date="2014-12-08T20:00:00.000-0500" arena="Jack Charron" home="A1" away="A2" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="74" date="2014-12-08T21:00:00.000-0500" arena="Jack Charron" home="B5" away="B8" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="75" date="2014-12-08T22:00:00.000-0500" arena="Jack Charron" home="B6" away="B1" awayScore="1" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
-  <games gameNumber="76" date="2014-12-11T18:30:00.000-0500" arena="KRC Rink" home="B2" away="B1" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="77" date="2014-12-11T19:30:00.000-0500" arena="KRC Rink" home="B4" away="B6" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="78" date="2014-12-11T20:30:00.000-0500" arena="KRC Rink" home="B7" away="B5" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="46" date="2014-12-11T21:00:00.000-0500" arena="Jack Charron" home="A2" away="A3" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="79" date="2014-12-11T21:30:00.000-0500" arena="KRC Rink" home="B3" away="B8" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="47" date="2014-12-11T22:00:00.000-0500" arena="Jack Charron" home="A4" away="A5" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="46" date="2014-12-08T20:00:00.000-0500" arena="Jack Charron" home="A1" away="A2" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="73" date="2014-12-08T21:00:00.000-0500" arena="Jack Charron" home="B5" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="74" date="2014-12-08T22:00:00.000-0500" arena="Jack Charron" home="B6" away="B1" awayScore="1" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
+  <games gameNumber="75" date="2014-12-11T18:30:00.000-0500" arena="KRC Rink" home="B2" away="B1" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="76" date="2014-12-11T19:30:00.000-0500" arena="KRC Rink" home="B4" away="B6" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="77" date="2014-12-11T20:30:00.000-0500" arena="KRC Rink" home="B7" away="B5" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="47" date="2014-12-11T21:00:00.000-0500" arena="Jack Charron" home="A2" away="A3" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="78" date="2014-12-11T21:30:00.000-0500" arena="KRC Rink" home="B3" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="48" date="2014-12-11T22:00:00.000-0500" arena="Jack Charron" home="A4" away="A5" iceType="A GAME" iceOwner="kmha"/>
   <games date="2014-12-12T00:23:00.000-0500" home="A2" iceType="TOURNAMENT" note="Kanata Sensplex Tournament"/>
   <games date="2014-12-12T00:23:00.000-0500" home="A3" iceType="TOURNAMENT" note="Kanata Sensplex Tournament"/>
   <games date="2014-12-12T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="West End Tournament"/>
-  <games gameNumber="80" date="2014-12-12T19:00:00.000-0500" arena="KRC Arena" home="B2" away="B3" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="48" date="2014-12-12T20:00:00.000-0500" arena="KRC Arena" home="B7" away="B4" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="79" date="2014-12-12T19:00:00.000-0500" arena="KRC Arena" home="B2" away="B3" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="80" date="2014-12-12T20:00:00.000-0500" arena="KRC Arena" home="B7" away="B4" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="49" date="2014-12-12T21:00:00.000-0500" arena="KRC Arena" home="A1" away="A4" iceType="A GAME" iceOwner="kmha"/>
   <games date="2014-12-13T00:23:00.000-0500" home="A2" iceType="TOURNAMENT" note="Kanata Sensplex Tournament"/>
   <games date="2014-12-13T00:23:00.000-0500" home="A3" iceType="TOURNAMENT" note="Kanata Sensplex Tournament"/>
@@ -144,12 +144,12 @@
   <games gameNumber="82" date="2014-12-15T20:00:00.000-0500" arena="Jack Charron" home="B8" away="B6" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="83" date="2014-12-15T21:00:00.000-0500" arena="Jack Charron" home="B2" away="B5" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="50" date="2014-12-15T22:00:00.000-0500" arena="Jack Charron" home="A3" away="A4" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="86" date="2014-12-18T18:30:00.000-0500" arena="KRC Rink" home="B1" away="B5" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="87" date="2014-12-18T19:30:00.000-0500" arena="KRC Rink" home="B8" away="B7" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="84" date="2014-12-18T18:30:00.000-0500" arena="KRC Rink" home="B1" away="B5" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="85" date="2014-12-18T19:30:00.000-0500" arena="KRC Rink" home="B8" away="B7" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="51" date="2014-12-18T20:30:00.000-0500" arena="KRC Rink" home="A5" away="A1" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="84" date="2014-12-18T21:00:00.000-0500" arena="Jack Charron" home="B6" away="B3" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="86" date="2014-12-18T21:00:00.000-0500" arena="Jack Charron" home="B6" away="B3" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="52" date="2014-12-18T21:30:00.000-0500" arena="KRC Rink" home="A3" away="A2" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="85" date="2014-12-18T22:00:00.000-0500" arena="Jack Charron" home="B4" away="B2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="87" date="2014-12-18T22:00:00.000-0500" arena="Jack Charron" home="B4" away="B2" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="53" date="2014-12-19T20:00:00.000-0500" arena="Sensplex Palladium" home="A1" away="A4" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="54" date="2014-12-19T21:00:00.000-0500" arena="Sensplex Palladium" home="A2" away="A5" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="88" date="2014-12-19T22:00:00.000-0500" arena="Sensplex Palladium" home="B7" away="B3" iceType="B GAME" iceOwner="kmha"/>
@@ -157,108 +157,111 @@
   <games gameNumber="90" date="2014-12-22T20:00:00.000-0500" arena="Jack Charron" home="B2" away="B3" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="55" date="2014-12-22T21:00:00.000-0500" arena="Jack Charron" home="A3" away="A5" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="56" date="2014-12-22T22:00:00.000-0500" arena="Jack Charron" home="A1" away="A2" iceType="A GAME" iceOwner="kmha"/>
+  <games date="2015-01-02T00:23:00.000-0500" home="A1" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-02T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-02T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
+  <games date="2015-01-03T00:23:00.000-0500" home="A1" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-03T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-03T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Carleton Place Tournament"/>
   <games date="2015-01-03T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
+  <games date="2015-01-04T00:23:00.000-0500" home="A1" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-04T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
   <games date="2015-01-04T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Gloucester Sensplex Tournament"/>
-  <games date="2015-01-04T16:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-04T17:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-04T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-04T19:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-05T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-05T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-05T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-05T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-07T21:00:00.000-0500" arena="John Mlacak" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-07T22:00:00.000-0500" arena="John Mlacak" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-08T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-08T19:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-08T20:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-08T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-08T21:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-08T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-12T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-12T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-12T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-12T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-14T21:00:00.000-0500" arena="John Mlacak" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-14T22:00:00.000-0500" arena="John Mlacak" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-15T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-15T19:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-15T20:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-15T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-15T21:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-15T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-16T18:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-16T19:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-19T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-19T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-19T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-19T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-22T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-22T19:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-22T20:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-22T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-22T21:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-22T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-23T19:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-23T20:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-23T21:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games gameNumber="91" date="2015-01-04T16:30:00.000-0500" arena="KRC Rink" home="B6" away="B1" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="92" date="2015-01-04T17:30:00.000-0500" arena="KRC Rink" home="B5" away="B2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="93" date="2015-01-04T18:30:00.000-0500" arena="KRC Rink" home="B3" away="B7" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="57" date="2015-01-04T19:30:00.000-0500" arena="KRC Rink" home="A2" away="A5" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="94" date="2015-01-05T19:00:00.000-0500" arena="Jack Charron" home="B1" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="95" date="2015-01-05T20:00:00.000-0500" arena="Jack Charron" home="B6" away="B4" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="58" date="2015-01-05T21:00:00.000-0500" arena="Jack Charron" home="A2" away="A5" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="59" date="2015-01-05T22:00:00.000-0500" arena="Jack Charron" home="A3" away="A4" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="60" date="2015-01-07T21:00:00.000-0500" arena="John Mlacak" home="A3" away="A1" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="96" date="2015-01-07T22:00:00.000-0500" arena="John Mlacak" home="B5" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="97" date="2015-01-08T18:30:00.000-0500" arena="KRC Rink" home="B5" away="B3" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="98" date="2015-01-08T19:30:00.000-0500" arena="KRC Rink" home="B1" away="B7" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="99" date="2015-01-08T20:30:00.000-0500" arena="KRC Rink" home="B4" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="61" date="2015-01-08T21:00:00.000-0500" arena="Jack Charron" home="A4" away="A2" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="100" date="2015-01-08T21:30:00.000-0500" arena="KRC Rink" home="B2" away="B6" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="62" date="2015-01-08T22:00:00.000-0500" arena="Jack Charron" home="A5" away="A1" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="63" date="2015-01-12T19:00:00.000-0500" arena="Jack Charron" home="A3" away="A1" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="64" date="2015-01-12T20:00:00.000-0500" arena="Jack Charron" home="A4" away="A2" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="101" date="2015-01-12T21:00:00.000-0500" arena="Jack Charron" home="B4" away="B5" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="102" date="2015-01-12T22:00:00.000-0500" arena="Jack Charron" home="B6" away="B7" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="65" date="2015-01-14T21:00:00.000-0500" arena="John Mlacak" home="A2" away="A1" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="66" date="2015-01-14T22:00:00.000-0500" arena="John Mlacak" home="A5" away="A4" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="67" date="2015-01-15T18:30:00.000-0500" arena="KRC Rink" home="A4" away="A1" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="68" date="2015-01-15T19:30:00.000-0500" arena="KRC Rink" home="A5" away="A3" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="103" date="2015-01-15T20:30:00.000-0500" arena="KRC Rink" home="B8" away="B5" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="104" date="2015-01-15T21:00:00.000-0500" arena="Jack Charron" home="B4" away="B7" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="105" date="2015-01-15T21:30:00.000-0500" arena="KRC Rink" home="B1" away="B6" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="106" date="2015-01-15T22:00:00.000-0500" arena="Jack Charron" home="B3" away="B2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="107" date="2015-01-16T18:00:00.000-0500" arena="KRC Arena" home="B1" away="B3" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="108" date="2015-01-16T19:00:00.000-0500" arena="KRC Arena" home="B2" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="109" date="2015-01-19T19:00:00.000-0500" arena="Jack Charron" home="B3" away="B4" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="110" date="2015-01-19T20:00:00.000-0500" arena="Jack Charron" home="B6" away="B5" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="69" date="2015-01-19T21:00:00.000-0500" arena="Jack Charron" home="A3" away="A4" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="70" date="2015-01-19T22:00:00.000-0500" arena="Jack Charron" home="A2" away="A1" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="111" date="2015-01-22T18:30:00.000-0500" arena="KRC Rink" home="B5" away="B7" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="112" date="2015-01-22T19:30:00.000-0500" arena="KRC Rink" home="B6" away="B4" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="71" date="2015-01-22T20:30:00.000-0500" arena="KRC Rink" home="A1" away="A5" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="113" date="2015-01-22T21:00:00.000-0500" arena="Jack Charron" home="B8" away="B3" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="72" date="2015-01-22T21:30:00.000-0500" arena="KRC Rink" home="A4" away="A2" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="114" date="2015-01-22T22:00:00.000-0500" arena="Jack Charron" home="B1" away="B2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="73" date="2015-01-23T19:00:00.000-0500" arena="KRC Arena" home="A3" away="A5" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="115" date="2015-01-23T20:00:00.000-0500" arena="KRC Arena" home="B7" away="B2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="116" date="2015-01-23T21:00:00.000-0500" arena="KRC Arena" home="B1" away="B8" iceType="B GAME" iceOwner="kmha"/>
   <games date="2015-01-24T00:23:00.000-0500" home="B7" iceType="TOURNAMENT" note="Pembroke Tournament"/>
-  <games date="2015-01-29T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-29T19:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-29T20:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-29T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-29T21:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-29T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games gameNumber="117" date="2015-01-29T18:30:00.000-0500" arena="KRC Rink" home="B3" away="B5" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="118" date="2015-01-29T19:30:00.000-0500" arena="KRC Rink" home="B7" away="B1" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="119" date="2015-01-29T20:30:00.000-0500" arena="KRC Rink" home="B8" away="B4" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="74" date="2015-01-29T21:00:00.000-0500" arena="Jack Charron" home="A4" away="A5" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="120" date="2015-01-29T21:30:00.000-0500" arena="KRC Rink" home="B6" away="B2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="75" date="2015-01-29T22:00:00.000-0500" arena="Jack Charron" home="A2" away="A3" iceType="A GAME" iceOwner="kmha"/>
   <games date="2015-01-30T00:23:00.000-0500" home="A2" iceType="TOURNAMENT" note="Cumberland Tournament"/>
   <games date="2015-01-30T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Cumberland Sensplex Tournament"/>
   <games date="2015-01-30T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Orleans Tournament"/>
-  <games date="2015-01-30T18:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-01-30T19:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games gameNumber="121" date="2015-01-30T18:00:00.000-0500" arena="KRC Arena" home="B8" away="B2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="122" date="2015-01-30T19:00:00.000-0500" arena="KRC Arena" home="B6" away="B7" iceType="B GAME" iceOwner="kmha"/>
   <games date="2015-01-31T00:23:00.000-0500" home="A2" iceType="TOURNAMENT" note="Cumberland Tournament"/>
   <games date="2015-01-31T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Cumberland Sensplex Tournament"/>
   <games date="2015-01-31T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Orleans Tournament"/>
   <games date="2015-02-01T00:23:00.000-0500" home="A2" iceType="TOURNAMENT" note="Cumberland Tournament"/>
   <games date="2015-02-01T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Cumberland Sensplex Tournament"/>
   <games date="2015-02-01T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Orleans Tournament"/>
-  <games date="2015-02-02T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-02T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-02T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-02T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-04T21:00:00.000-0500" arena="John Mlacak" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-04T22:00:00.000-0500" arena="John Mlacak" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-05T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-05T19:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-05T20:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-05T21:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games gameNumber="76" date="2015-02-02T19:00:00.000-0500" arena="Jack Charron" home="A3" away="A1" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="77" date="2015-02-02T20:00:00.000-0500" arena="Jack Charron" home="A5" away="A4" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="123" date="2015-02-02T21:00:00.000-0500" arena="Jack Charron" home="B3" away="B1" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="124" date="2015-02-02T22:00:00.000-0500" arena="Jack Charron" home="B5" away="B4" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="78" date="2015-02-04T21:00:00.000-0500" arena="John Mlacak" home="A4" away="A1" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="79" date="2015-02-04T22:00:00.000-0500" arena="John Mlacak" home="A2" away="A3" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="80" date="2015-02-05T18:30:00.000-0500" arena="KRC Rink" home="A5" away="A1" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="81" date="2015-02-05T19:30:00.000-0500" arena="KRC Rink" home="A2" away="A3" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="125" date="2015-02-05T20:30:00.000-0500" arena="KRC Rink" home="B3" away="B6" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="126" date="2015-02-05T21:30:00.000-0500" arena="KRC Rink" home="B7" away="B8" iceType="B GAME" iceOwner="kmha"/>
   <games date="2015-02-06T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Metcalfe Tournament"/>
-  <games date="2015-02-06T18:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-06T19:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games gameNumber="127" date="2015-02-06T18:00:00.000-0500" arena="KRC Arena" home="B2" away="B4" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="128" date="2015-02-06T19:00:00.000-0500" arena="KRC Arena" home="B5" away="B1" iceType="B GAME" iceOwner="kmha"/>
   <games date="2015-02-07T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Metcalfe Tournament"/>
   <games date="2015-02-08T00:23:00.000-0500" home="A4" iceType="TOURNAMENT" note="Metcalfe Tournament"/>
-  <games date="2015-02-09T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-09T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-09T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-09T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-12T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-12T19:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-12T20:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-12T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-12T21:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-12T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games gameNumber="82" date="2015-02-09T19:00:00.000-0500" arena="Jack Charron" home="A5" away="A3" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="129" date="2015-02-09T20:00:00.000-0500" arena="Jack Charron" home="B2" away="B5" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="130" date="2015-02-09T21:00:00.000-0500" arena="Jack Charron" home="B4" away="B1" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="131" date="2015-02-09T22:00:00.000-0500" arena="Jack Charron" home="B6" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="132" date="2015-02-12T18:30:00.000-0500" arena="KRC Rink" home="B4" away="B2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="133" date="2015-02-12T19:30:00.000-0500" arena="KRC Rink" home="B6" away="B3" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="83" date="2015-02-12T20:30:00.000-0500" arena="KRC Rink" home="A1" away="A2" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="134" date="2015-02-12T21:00:00.000-0500" arena="Jack Charron" home="B8" away="B7" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="84" date="2015-02-12T21:30:00.000-0500" arena="KRC Rink" home="A3" away="A4" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="135" date="2015-02-12T22:00:00.000-0500" arena="Jack Charron" home="B1" away="B5" iceType="B GAME" iceOwner="kmha"/>
   <games date="2015-02-13T00:23:00.000-0500" home="A3" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
   <games date="2015-02-13T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
   <games date="2015-02-13T00:23:00.000-0500" home="B2" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-13T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-13T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-13T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Kanata Tournament"/>
-  <games date="2015-02-13T19:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-13T20:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-13T21:00:00.000-0500" arena="KRC Arena" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games gameNumber="85" date="2015-02-13T19:00:00.000-0500" arena="KRC Arena" home="A1" away="A4" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="86" date="2015-02-13T20:00:00.000-0500" arena="KRC Arena" home="A5" away="A2" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="136" date="2015-02-13T21:00:00.000-0500" arena="KRC Arena" home="B7" away="B3" iceType="B GAME" iceOwner="kmha"/>
   <games date="2015-02-14T00:23:00.000-0500" home="A3" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
   <games date="2015-02-14T00:23:00.000-0500" home="B1" iceType="TOURNAMENT" note="Bob Black Oshawa Tournament"/>
   <games date="2015-02-14T00:23:00.000-0500" home="B2" iceType="TOURNAMENT" note="Kanata Tournament"/>
@@ -271,31 +274,31 @@
   <games date="2015-02-15T00:23:00.000-0500" home="B4" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-15T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Kanata Tournament"/>
   <games date="2015-02-15T00:23:00.000-0500" home="B8" iceType="TOURNAMENT" note="Kanata Tournament"/>
-  <games date="2015-02-16T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-16T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-16T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-16T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-19T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-19T19:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-19T20:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-19T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-19T21:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-19T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-20T21:00:00.000-0500" arena="Sensplex Canadian Tire" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-20T22:00:00.000-0500" arena="Sensplex Canadian Tire" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-23T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-23T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-23T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-23T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-26T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-26T19:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-26T20:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-26T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-26T21:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-26T22:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-27T19:15:00.000-0500" arena="Sensplex Mattamy" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-27T20:15:00.000-0500" arena="Sensplex Mattamy" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
-  <games date="2015-02-27T21:15:00.000-0500" arena="Sensplex Mattamy" home="Midget" away="Midget" iceType="PRACTICE" iceOwner="kmha"/>
+  <games gameNumber="87" date="2015-02-16T19:00:00.000-0500" arena="Jack Charron" home="A2" away="A1" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="88" date="2015-02-16T20:00:00.000-0500" arena="Jack Charron" home="A5" away="A4" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="137" date="2015-02-16T21:00:00.000-0500" arena="Jack Charron" home="B1" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="138" date="2015-02-16T22:00:00.000-0500" arena="Jack Charron" home="B2" away="B7" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="89" date="2015-02-19T18:30:00.000-0500" arena="KRC Rink" home="A2" away="A4" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="90" date="2015-02-19T19:30:00.000-0500" arena="KRC Rink" home="A1" away="A3" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="139" date="2015-02-19T20:30:00.000-0500" arena="KRC Rink" home="B5" away="B7" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="140" date="2015-02-19T21:00:00.000-0500" arena="Jack Charron" home="B4" away="B1" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="141" date="2015-02-19T21:30:00.000-0500" arena="KRC Rink" home="B3" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="142" date="2015-02-19T22:00:00.000-0500" arena="Jack Charron" home="B2" away="B6" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="143" date="2015-02-20T21:00:00.000-0500" arena="Sensplex Canadian Tire" home="B5" away="B6" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="144" date="2015-02-20T22:00:00.000-0500" arena="Sensplex Canadian Tire" home="B4" away="B3" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="91" date="2015-02-23T19:00:00.000-0500" arena="Jack Charron" home="A5" away="A3" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="92" date="2015-02-23T20:00:00.000-0500" arena="Jack Charron" home="A4" away="A1" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="145" date="2015-02-23T21:00:00.000-0500" arena="Jack Charron" home="B3" away="B1" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="146" date="2015-02-23T22:00:00.000-0500" arena="Jack Charron" home="B8" away="B6" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="93" date="2015-02-26T18:30:00.000-0500" arena="KRC Rink" home="A5" away="A2" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="94" date="2015-02-26T19:30:00.000-0500" arena="KRC Rink" home="A4" away="A3" iceType="A GAME" iceOwner="kmha"/>
+  <games gameNumber="147" date="2015-02-26T20:30:00.000-0500" arena="KRC Rink" home="B3" away="B5" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="148" date="2015-02-26T21:00:00.000-0500" arena="Jack Charron" home="B8" away="B4" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="149" date="2015-02-26T21:30:00.000-0500" arena="KRC Rink" home="B6" away="B2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="150" date="2015-02-26T22:00:00.000-0500" arena="Jack Charron" home="B1" away="B7" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="151" date="2015-02-27T19:15:00.000-0500" arena="Sensplex Mattamy" home="B5" away="B4" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="152" date="2015-02-27T20:15:00.000-0500" arena="Sensplex Mattamy" home="B7" away="B2" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="95" date="2015-02-27T21:15:00.000-0500" arena="Sensplex Mattamy" home="A1" away="A2" iceType="A GAME" iceOwner="kmha"/>
   <games date="2015-03-27T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
   <games date="2015-03-28T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
   <games date="2015-03-29T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
