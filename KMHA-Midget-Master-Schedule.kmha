@@ -120,17 +120,17 @@
   <games gameNumber="46" date="2014-12-08T20:00:00.000-0500" arena="Jack Charron" home="A1" away="A2" iceType="A GAME" iceOwner="kmha"/>
   <games gameNumber="73" date="2014-12-08T21:00:00.000-0500" arena="Jack Charron" home="B5" away="B8" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="74" date="2014-12-08T22:00:00.000-0500" arena="Jack Charron" home="B6" away="B1" awayScore="1" iceType="B GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
-  <games gameNumber="75" date="2014-12-11T18:30:00.000-0500" arena="KRC Rink" home="B2" away="B1" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="76" date="2014-12-11T19:30:00.000-0500" arena="KRC Rink" home="B4" away="B6" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="75" date="2014-12-11T18:30:00.000-0500" arena="KRC Rink" home="B2" away="B1" homeScore="1" awayScore="1" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="76" date="2014-12-11T19:30:00.000-0500" arena="KRC Rink" home="B4" away="B6" homeScore="1" awayScore="1" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="77" date="2014-12-11T20:30:00.000-0500" arena="KRC Rink" home="B7" away="B5" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="47" date="2014-12-11T21:00:00.000-0500" arena="Jack Charron" home="A2" away="A3" iceType="A GAME" iceOwner="kmha"/>
-  <games gameNumber="78" date="2014-12-11T21:30:00.000-0500" arena="KRC Rink" home="B3" away="B8" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="78" date="2014-12-11T21:30:00.000-0500" arena="KRC Rink" home="B3" away="B8" homeScore="3" awayScore="3" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="48" date="2014-12-11T22:00:00.000-0500" arena="Jack Charron" home="A4" away="A5" iceType="A GAME" iceOwner="kmha"/>
   <games date="2014-12-12T00:23:00.000-0500" home="A2" iceType="TOURNAMENT" note="Kanata Sensplex Tournament"/>
   <games date="2014-12-12T00:23:00.000-0500" home="A3" iceType="TOURNAMENT" note="Kanata Sensplex Tournament"/>
   <games date="2014-12-12T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="West End Tournament"/>
-  <games gameNumber="79" date="2014-12-12T19:00:00.000-0500" arena="KRC Arena" home="B2" away="B3" iceType="B GAME" iceOwner="kmha"/>
-  <games gameNumber="80" date="2014-12-12T20:00:00.000-0500" arena="KRC Arena" home="B7" away="B4" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="79" date="2014-12-12T19:00:00.000-0500" arena="KRC Arena" home="B2" away="B3" homeScore="3" awayScore="5" iceType="B GAME" iceOwner="kmha"/>
+  <games gameNumber="80" date="2014-12-12T20:00:00.000-0500" arena="KRC Arena" home="B7" away="B4" homeScore="3" awayScore="1" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="49" date="2014-12-12T21:00:00.000-0500" arena="KRC Arena" home="A1" away="A4" iceType="A GAME" iceOwner="kmha"/>
   <games date="2014-12-13T00:23:00.000-0500" home="A2" iceType="TOURNAMENT" note="Kanata Sensplex Tournament"/>
   <games date="2014-12-13T00:23:00.000-0500" home="A3" iceType="TOURNAMENT" note="Kanata Sensplex Tournament"/>
