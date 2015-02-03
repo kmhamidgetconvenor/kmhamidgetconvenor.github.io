@@ -299,9 +299,6 @@
   <games gameNumber="151" date="2015-02-27T19:15:00.000-0500" arena="Sensplex Mattamy" home="B5" away="B4" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="152" date="2015-02-27T20:15:00.000-0500" arena="Sensplex Mattamy" home="B7" away="B2" iceType="B GAME" iceOwner="kmha"/>
   <games gameNumber="95" date="2015-02-27T21:15:00.000-0500" arena="Sensplex Mattamy" home="A1" away="A2" iceType="A GAME" iceOwner="kmha"/>
-  <games date="2015-03-27T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
-  <games date="2015-03-28T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
-  <games date="2015-03-29T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
   <games date="2015-03-02T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-02T20:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-02T21:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="B PLAYOFF" iceOwner="kmha"/>
@@ -324,14 +321,20 @@
   <games date="2015-03-23T21:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-23T22:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-24T20:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-24T21:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-24T20:00:00.000-0400" arena="John Mlacak" home="Midget" away="Midget" iceType="B PLAYOFF" iceOwner="kmha"/>
+  <games date="2015-03-24T21:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-24T21:00:00.000-0400" arena="John Mlacak" home="Midget" away="Midget" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-25T21:00:00.000-0400" arena="John Mlacak" home="Midget" away="Midget" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-25T22:00:00.000-0400" arena="John Mlacak" home="Midget" away="Midget" iceType="B PLAYOFF" iceOwner="kmha"/>
+  <games date="2015-03-27T01:23:00.000-0400" home="A2" iceType="TOURNAMENT" note="Rogers House Ottawa Tournament"/>
+  <games date="2015-03-27T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
   <games date="2015-03-27T19:00:00.000-0400" arena="John Mlacak" home="Midget" away="Midget" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-27T20:00:00.000-0400" arena="John Mlacak" home="Midget" away="Midget" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-27T21:00:00.000-0400" arena="John Mlacak" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games date="2015-03-28T01:23:00.000-0400" home="A2" iceType="TOURNAMENT" note="Rogers House Ottawa Tournament"/>
+  <games date="2015-03-28T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
+  <games date="2015-03-29T01:23:00.000-0400" home="A2" iceType="TOURNAMENT" note="Rogers House Ottawa Tournament"/>
+  <games date="2015-03-29T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
   <games date="2015-03-30T19:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-30T20:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-30T21:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="B PLAYOFF" iceOwner="kmha"/>
