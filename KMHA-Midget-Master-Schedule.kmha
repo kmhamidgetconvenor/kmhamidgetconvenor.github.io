@@ -302,13 +302,13 @@
   <games gameNumber="95" date="2015-02-27T21:15:00.000-0500" arena="Sensplex Mattamy" home="A1" away="A2" iceType="A GAME" iceOwner="kmha"/>
   <games date="2015-02-28T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Metcalfe Tournament"/>
   <games date="2015-03-01T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Metcalfe Tournament"/>
-  <games date="2015-03-02T19:00:00.000-0500" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="1" date="2015-03-02T19:00:00.000-0500" arena="Jack Charron" home="A4" away="A2" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="1" date="2015-03-02T20:00:00.000-0500" arena="Jack Charron" home="B1" away="B4" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="2" date="2015-03-02T21:00:00.000-0500" arena="Jack Charron" home="B3" away="B7" iceType="B PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-03T20:00:00.000-0500" arena="John Mlacak" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-03T21:00:00.000-0500" arena="John Mlacak" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-05T18:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-05T19:30:00.000-0500" arena="KRC Rink" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="2" date="2015-03-03T20:00:00.000-0500" arena="John Mlacak" home="A4" away="A5" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="3" date="2015-03-03T21:00:00.000-0500" arena="John Mlacak" home="A1" away="A3" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="4" date="2015-03-05T18:30:00.000-0500" arena="KRC Rink" home="A1" away="A5" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="5" date="2015-03-05T19:30:00.000-0500" arena="KRC Rink" home="A2" away="A3" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="3" date="2015-03-05T20:30:00.000-0500" arena="KRC Rink" home="B2" away="B5" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="4" date="2015-03-05T21:30:00.000-0500" arena="KRC Rink" home="B6" away="B8" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="5" date="2015-03-09T19:00:00.000-0400" arena="Jack Charron" home="B6" away="B5" iceType="B PLAYOFF" iceOwner="kmha"/>
@@ -321,11 +321,11 @@
   <games gameNumber="12" date="2015-03-12T21:30:00.000-0400" arena="KRC Rink" home="B2" away="B8" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="13" date="2015-03-23T19:00:00.000-0400" arena="Jack Charron" home="B5" away="B7" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="14" date="2015-03-23T20:00:00.000-0400" arena="Jack Charron" home="B8" away="B3" iceType="B PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-23T21:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-23T22:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-24T20:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="6" date="2015-03-23T21:00:00.000-0400" arena="Jack Charron" home="A2" away="A5" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="7" date="2015-03-23T22:00:00.000-0400" arena="Jack Charron" home="A1" away="A4" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="8" date="2015-03-24T20:00:00.000-0400" arena="Jack Charron" home="A3" away="A4" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="15" date="2015-03-24T20:00:00.000-0400" arena="John Mlacak" home="B1" away="B2" iceType="B PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-24T21:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="9" date="2015-03-24T21:00:00.000-0400" arena="Jack Charron" home="A1" away="A2" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="16" date="2015-03-24T21:00:00.000-0400" arena="John Mlacak" home="B6" away="B4" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="17" date="2015-03-25T21:00:00.000-0400" arena="John Mlacak" home="B1" away="B7" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="18" date="2015-03-25T22:00:00.000-0400" arena="John Mlacak" home="B2" away="B6" iceType="B PLAYOFF" iceOwner="kmha"/>
@@ -334,31 +334,31 @@
   <games date="2015-03-27T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
   <games gameNumber="19" date="2015-03-27T19:00:00.000-0400" arena="John Mlacak" home="B5" away="B3" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="20" date="2015-03-27T20:00:00.000-0400" arena="John Mlacak" home="B4" away="B8" iceType="B PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-27T21:00:00.000-0400" arena="John Mlacak" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="10" date="2015-03-27T21:00:00.000-0400" arena="John Mlacak" home="A3" away="A5" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games date="2015-03-28T01:23:00.000-0400" home="A2" iceType="TOURNAMENT" note="Rogers House Ottawa Tournament"/>
   <games date="2015-03-28T01:23:00.000-0400" home="A4" iceType="TOURNAMENT" note="Rogers House Ottawa Tournament"/>
   <games date="2015-03-28T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
   <games date="2015-03-29T01:23:00.000-0400" home="A2" iceType="TOURNAMENT" note="Rogers House Ottawa Tournament"/>
   <games date="2015-03-29T01:23:00.000-0400" home="A4" iceType="TOURNAMENT" note="Rogers House Ottawa Tournament"/>
   <games date="2015-03-29T01:23:00.000-0400" home="B1" iceType="TOURNAMENT" note="Kids for Kids Kingston Tournament"/>
-  <games date="2015-03-30T19:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-30T20:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="11" date="2015-03-30T19:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="12" date="2015-03-30T20:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="21" date="2015-03-30T21:00:00.000-0400" arena="Jack Charron" home="B2" away="B4" iceType="B PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-31T20:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-03-31T21:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="13" date="2015-03-31T20:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="14" date="2015-03-31T21:00:00.000-0400" arena="Jack Charron" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="22" date="2015-04-02T17:30:00.000-0400" arena="KRC Rink" home="B4" away="B7" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="23" date="2015-04-02T18:30:00.000-0400" arena="KRC Rink" home="B1" away="B6" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="24" date="2015-04-02T19:30:00.000-0400" arena="KRC Rink" home="B3" away="B2" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="25" date="2015-04-02T20:30:00.000-0400" arena="KRC Rink" home="B8" away="B5" iceType="B PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-04-02T21:30:00.000-0400" arena="KRC Rink" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="15" date="2015-04-02T21:30:00.000-0400" arena="KRC Rink" home="Midget" away="Midget" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="26" date="2015-04-03T18:15:00.000-0400" arena="Sensplex Mattamy" home="B5" away="B1" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="27" date="2015-04-03T19:15:00.000-0400" arena="Sensplex Mattamy" home="B3" away="B6" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="28" date="2015-04-03T20:15:00.000-0400" arena="Sensplex Mattamy" home="B7" away="B8" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games date="2015-04-07T19:00:00.000-0400" arena="Sensplex Canadian Tire" home="Midget" away="B Final Game 1" iceType="B PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-04-07T20:00:00.000-0400" arena="Sensplex Canadian Tire" home="Midget" away="A Final Game 1" iceType="A PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-04-08T19:00:00.000-0400" arena="Sensplex Canadian Tire" home="Midget" away="A Final Game 2" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="16" date="2015-04-07T20:00:00.000-0400" arena="Sensplex Canadian Tire" home="Midget" away="A Final Game 1" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="17" date="2015-04-08T19:00:00.000-0400" arena="Sensplex Canadian Tire" home="Midget" away="A Final Game 2" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games date="2015-04-08T20:00:00.000-0400" arena="Sensplex Canadian Tire" home="Midget" away="B Final Game 2" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games date="2015-04-10T19:00:00.000-0400" arena="John Mlacak" home="Midget" away="B Final Game 3" iceType="B PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-04-10T20:00:00.000-0400" arena="John Mlacak" home="Midget" away="A Final Game 3" iceType="A PLAYOFF" iceOwner="kmha"/>
-  <games date="2015-04-10T21:00:00.000-0400" arena="John Mlacak" home="Midget" away="Overtime Game 3" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="18" date="2015-04-10T20:00:00.000-0400" arena="John Mlacak" home="Midget" away="A Final Game 3" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="19" date="2015-04-10T21:00:00.000-0400" arena="John Mlacak" home="Midget" away="Overtime Game 3" iceType="A PLAYOFF" iceOwner="kmha"/>
 </com.ahunter.kmha:Midget>
