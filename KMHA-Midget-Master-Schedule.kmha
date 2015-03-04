@@ -302,9 +302,9 @@
   <games gameNumber="95" date="2015-02-27T21:15:00.000-0500" arena="Sensplex Mattamy" home="A1" away="A2" homeScore="3" awayScore="1" iceType="A GAME" iceOwner="kmha" gamesheetConfirmed="true"/>
   <games date="2015-02-28T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Metcalfe Tournament"/>
   <games date="2015-03-01T00:23:00.000-0500" home="B5" iceType="TOURNAMENT" note="Metcalfe Tournament"/>
-  <games gameNumber="1" date="2015-03-02T19:00:00.000-0500" arena="Jack Charron" home="A4" away="A2" iceType="A PLAYOFF" iceOwner="kmha"/>
-  <games gameNumber="1" date="2015-03-02T20:00:00.000-0500" arena="Jack Charron" home="B1" away="B4" iceType="B PLAYOFF" iceOwner="kmha"/>
-  <games gameNumber="2" date="2015-03-02T21:00:00.000-0500" arena="Jack Charron" home="B3" away="B7" iceType="B PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="1" date="2015-03-02T19:00:00.000-0500" arena="Jack Charron" home="A4" away="A2" homeScore="3" awayScore="1" iceType="A PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="1" date="2015-03-02T20:00:00.000-0500" arena="Jack Charron" home="B1" away="B4" awayScore="7" iceType="B PLAYOFF" iceOwner="kmha"/>
+  <games gameNumber="2" date="2015-03-02T21:00:00.000-0500" arena="Jack Charron" home="B3" away="B7" awayScore="2" iceType="B PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="2" date="2015-03-03T20:00:00.000-0500" arena="John Mlacak" home="A4" away="A5" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="3" date="2015-03-03T21:00:00.000-0500" arena="John Mlacak" home="A1" away="A3" iceType="A PLAYOFF" iceOwner="kmha"/>
   <games gameNumber="4" date="2015-03-05T18:30:00.000-0500" arena="KRC Rink" home="A1" away="A5" iceType="A PLAYOFF" iceOwner="kmha"/>
